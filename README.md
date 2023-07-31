@@ -1,1 +1,1 @@
-### FRont End Apps with React.js Value added course
+### Front End Apps with React.js Value added course
